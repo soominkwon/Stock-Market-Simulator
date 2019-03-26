@@ -1,0 +1,35 @@
+VNET	21Vianet Group Inc. ADR				5.65
+AGTK	Agritek Holdings Inc.				0.12
+AKAM	Akamai Technologies Inc.			58.92
+BIDU	Baidu Inc. ADR					173.41
+BCOR	Blucora Inc.					17.1
+WIFI	Boingo Wireless Inc.				13.78
+CARB	Carbonite Inc.					19.4
+JRJC	China Finance Online ADR			3.02
+CCIH	ChinaCache International ADR			1.55
+CCOI	Cogent Communications Inc.			44.5
+CXDO	Crexendo Inc.					1.55
+EDXC	ENDEXX Corp.					0.15
+ENV	Envestnet Inc.					33.6
+FB	Facebook Inc. Cl A				141.52
+GDDY	GoDaddy Inc. Cl A				36.98
+IAC	IAC/InterActiveCorp.				75.15
+IIJI	Internet Initiative Japan ADR			8.9
+INAP	InterNAP Corp.					3.45
+IPAS	iPass Inc.					1.38
+JCOM	j2 Global Inc.					83.3
+LLNW	Limelight Networks Inc.				2.59
+MOMO	Momo Inc. ADR					38.5
+NTES	Netease Inc. ADR				266.32
+EGOV	NIC Inc.					20.6
+NQ	NQ Mobile Inc. ADR				3.73
+OPESY	Opera Software ASA ADR				10.1
+BLNKF	Rhythmone PLC					0.66
+NAME	Rightside Group Ltd.				9.39
+SIFY	Sify Technologies Ltd. ADR			0.98
+SINA	Sina Corp.					69.74
+SOHU	Sohu.com Inc.					39.53
+SNST	Sunset Capital Assets Inc.			0.61
+TCTZF	Tencent Holdings Ltd.				29.95
+TCEHY	Tencent Holdings Ltd. ADR			29.87
+TMMI	TMM Inc.					0.16
