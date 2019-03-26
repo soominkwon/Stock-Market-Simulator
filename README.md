@@ -19,7 +19,8 @@ Doing so otherwise will break to program.
 3. You must buy the stock as stated in the stock file name. For example, if the stock you wanted to purchase was VNET,
 you must write 'VNET' rather than 'vnet'.
 
-4. When purchasing a stock, please follow the directions. It must be name of stock, price, and amount. (I believe).
+4. When purchasing a stock, please follow the directions. It must be name of stock, price, and amount, or however in the format that
+the program asks.
 So for example, if you were to purchase a stock, say VNET, you would input:
 'VNET_50_50', where the _ indicate spaces.
 
