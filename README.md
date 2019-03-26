@@ -13,7 +13,7 @@ This program is not perfect - it has some "loops" where the codes break.
 Here are some instances:
 1. You must buy a stock before attempting to manage your portfolio.
 
-2. When the program asks the user to press "Y or N" to proceed, you must literally write in Y or N, in captial letters.
+2. When the program asks the user to press "Y or N" to proceed, you must literally write in Y or N, in capital letters.
 Doing so otherwise will break to program.
 
 3. You must buy the stock as stated in the stock file name. For example, if the stock you wanted to purchase was VNET,
